@@ -2,7 +2,7 @@
 
 # Bash script used to sync sftp sites.
 
-# Author: Edgar Pino <epino@envano.com>
+# Author: Edgar Pino <me@edgarpino.com>
 
 # The lftp(http://lftp.tech/lftp-man.html) cli is used to mirror FTP and SFTP sites. 
 
