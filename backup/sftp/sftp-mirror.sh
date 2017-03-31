@@ -10,7 +10,7 @@
 # SFTP Configuration and other variables    #
 # # # # # # # # # # # # # # # # # # # # # # #
 
-CLIENT_NAME='envano'
+CLIENT_NAME='edgar'
 SFTP_SERVER="ftp.host.com"
 SFTP_USER="user"
 SFTP_PWD="password!!"

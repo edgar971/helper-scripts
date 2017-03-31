@@ -20,7 +20,7 @@ SFTP_PWD=""
 SFTP_REMOTE_DIR=/path.to.site/www/
 
 # Local config
-LOCAL_DIR=/some/local/dir/$SFTP_SERVER
+LOCAL_DIR=$(PWD)/$SFTP_SERVER
 LOCAL_REPO_DIR=$LOCAL_DIR/$REPO_NAME
 DATE=`date +%Y-%m-%d:%I:%M:%S%p`
 
