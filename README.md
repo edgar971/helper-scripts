@@ -1,5 +1,5 @@
-# A collection of scripts to make life easier
+# A collection of bash scripts to make life easier
 
-- Backup
+- Backups
 - Git
 - Database
